@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Reza 👋
 
 <!--
 **rezafawazul/rezafawazul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠️ Former Engineer turned Data Enthusiast
+
+📚 I’m currently learning Data Science, Machine Learning, and AI (beginner level)
+
+🔍 I’m eager to explore real-world projects in AI and Machine Learning
+
+🌱 Always looking to collaborate and learn from others
+
+📫 How to reach me: LinkedIn
+
+⚡ Fun fact: I’m quickly improving in AI prompting and problem analysis, and I believe collaborating with a mentor or partner could be mutually beneficial, as it would allow us to share knowledge and explore new ideas together!
+
+Feel free to check out my repositories and connect with me!
 -->
